@@ -1,4 +1,4 @@
-import Character from '.';
+import { Character } from '.';
 
 describe('Character', () => {
   describe('#talk', () => {
